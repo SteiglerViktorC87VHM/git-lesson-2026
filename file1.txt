@@ -5,4 +5,11 @@ három
 négy
 öt
 
+<<<<<<< HEAD
 hat
+=======
+hat
+hét
+
+nyolc
+>>>>>>> feature-1
