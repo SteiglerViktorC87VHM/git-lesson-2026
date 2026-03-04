@@ -4,3 +4,6 @@ három
 
 négy
 öt
+
+hat
+hét
