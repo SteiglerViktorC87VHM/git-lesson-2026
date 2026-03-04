@@ -7,3 +7,5 @@ négy
 
 hat
 hét
+
+nyolc
